@@ -48,6 +48,7 @@ while run:
             
             
         elif letter_request not in word:
+            count = 0
             if letter_request in already_been_letters:
                 continue
                 count = 0
@@ -74,5 +75,5 @@ while run:
 
    
             
-    print(hidden_word_list)git    
+    print(hidden_word_list)    
     
