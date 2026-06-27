@@ -19,7 +19,7 @@ num_word = random.randint(0, len(list_of_words))
 word = list_of_words[num_word]
 hidden_word = "_ " * len(word)
             
-print(word)
+#print(word)
 hidden_word_list = hidden_word.split(" ")
 del hidden_word_list[-1]
 print(hidden_word_list)
@@ -40,8 +40,7 @@ while run:
 
     for letter in word:
         count += 1
-        print(count)
-        
+        #print(count)
         if letter_request == letter:
             already_been_letters.append(letter_request)
             hidden_word_list[count-1] = hidden_word_list[count-1].replace("_", letter_request)
