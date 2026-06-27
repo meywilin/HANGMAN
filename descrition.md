@@ -1,2 +1,2 @@
 # HANGMAN GAME
-![logo](https://cloud.mail.ru/public/Xkgr/dr5dmQthU)
+![logo]("C:\Users\madru\Downloads\logo_hangman.ico")
