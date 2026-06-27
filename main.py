@@ -1,5 +1,5 @@
 import random
-
+import time
 list_of_words = [
     "абрикос", "бамбук", "велосипед", "галактика", "дельфин",
     "единорог", "жасмин", "зебра", "изумруд", "календарь",
@@ -87,4 +87,5 @@ while run:
    
             
     print(hidden_word_list)    
-    
+
+time.sleep(10)
