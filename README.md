@@ -1,5 +1,5 @@
 # HANGMAN GAME
-![logo]("https://github.com/meywilin/HANGMAN/blob/master/logo_hangman.jpg")
+![logo]("https://github.com/meywilin/HANGMAN/blob/main/logo_hangman.jpg")
 ### Игра в висилицу очень **простая!**
 ### Твоя  _задача_  вводить буквы и пытаться угадать ***слово***
 ### Но у тебя всего лишь ***8 попыток ошибиться***, а не то ~~тебя повесят~~ ты проиграешь!
